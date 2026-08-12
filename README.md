@@ -27,4 +27,4 @@ End-to-end retail business case study using **SQL, Python, and Power BI**, inclu
 
 ## 🎯 Current Focus
 
-Building practical data analytics projects and strengthening my skills in **SQL, Python, Power BI, and business problem-solving**.
+Open to **Data Analyst opportunities** where I can apply **Excel, SQL, Power BI, Python, and business analytics** skills to solve real-world business problems.
